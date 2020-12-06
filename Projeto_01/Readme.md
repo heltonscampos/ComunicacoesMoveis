@@ -1,0 +1,1 @@
+  Ao final de cada relatório de entrega, existe um link do vídeo no YouTube, limitado a um tempo mínimo imposto, onde explico os passos realizados e análises técnicas para cada desafio submetido em cada entrega.
